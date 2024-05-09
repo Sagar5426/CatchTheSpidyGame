@@ -2,9 +2,10 @@
 
 Catch the Spidy is a fun and simple game built with Swift, where the goal is to tap on Spiderman's face as it appears in different places on the screen. Your score increases with each successful tap, and you can also challenge yourself to beat the high score.
 
-![Game Screenshot](https://github.com/Sagar5426/CatchTheSpidyGame/assets/108585817/c799c150-d6a8-430a-8aa5-63515b68eb95)
 
-![Game Screenshot-2](https://github.com/Sagar5426/CatchTheSpidyGame/assets/108585817/87876922-d8dd-4c38-9916-2ebfc0727863)
+<img width="240" alt="Screenshot 2024-05-08 at 4 45 02 PM" src="https://github.com/Sagar5426/CatchTheSpidyGame/assets/108585817/c799c150-d6a8-430a-8aa5-63515b68eb95"> 
+
+<img width="240" alt="Screenshot 2024-05-08 at 4 45 02 PM" src="https://github.com/Sagar5426/CatchTheSpidyGame/assets/108585817/87876922-d8dd-4c38-9916-2ebfc0727863"> 
 
 ## Features
 
